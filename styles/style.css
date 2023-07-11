@@ -1,0 +1,30 @@
+h2 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #2E4053;
+    text-shadow: 3px 3px 1px black;
+}
+  
+img {
+    height: 350px;
+    display: block;
+    margin: 0 auto;
+}
+html {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+body {
+    background-image: url("../images/下載.jpeg");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    body {
+        margin: 0 0;
+        }
+}
+#pop {
+    font-size: 30px;
+}
